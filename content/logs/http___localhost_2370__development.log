@@ -1,0 +1,48 @@
+{"name":"Log","hostname":"Justins-MacBook-Pro.local","pid":18460,"level":30,"msg":"Creating table: posts","time":"2020-11-01T23:25:08.446Z","v":0}
+{"name":"Log","hostname":"Justins-MacBook-Pro.local","pid":18460,"level":30,"msg":"Creating table: posts_meta","time":"2020-11-01T23:25:08.451Z","v":0}
+{"name":"Log","hostname":"Justins-MacBook-Pro.local","pid":18460,"level":30,"msg":"Creating table: users","time":"2020-11-01T23:25:08.456Z","v":0}
+{"name":"Log","hostname":"Justins-MacBook-Pro.local","pid":18460,"level":30,"msg":"Creating table: posts_authors","time":"2020-11-01T23:25:08.462Z","v":0}
+{"name":"Log","hostname":"Justins-MacBook-Pro.local","pid":18460,"level":30,"msg":"Creating table: roles","time":"2020-11-01T23:25:08.465Z","v":0}
+{"name":"Log","hostname":"Justins-MacBook-Pro.local","pid":18460,"level":30,"msg":"Creating table: roles_users","time":"2020-11-01T23:25:08.469Z","v":0}
+{"name":"Log","hostname":"Justins-MacBook-Pro.local","pid":18460,"level":30,"msg":"Creating table: permissions","time":"2020-11-01T23:25:08.472Z","v":0}
+{"name":"Log","hostname":"Justins-MacBook-Pro.local","pid":18460,"level":30,"msg":"Creating table: permissions_users","time":"2020-11-01T23:25:08.476Z","v":0}
+{"name":"Log","hostname":"Justins-MacBook-Pro.local","pid":18460,"level":30,"msg":"Creating table: permissions_roles","time":"2020-11-01T23:25:08.479Z","v":0}
+{"name":"Log","hostname":"Justins-MacBook-Pro.local","pid":18460,"level":30,"msg":"Creating table: permissions_apps","time":"2020-11-01T23:25:08.482Z","v":0}
+{"name":"Log","hostname":"Justins-MacBook-Pro.local","pid":18460,"level":30,"msg":"Creating table: settings","time":"2020-11-01T23:25:08.485Z","v":0}
+{"name":"Log","hostname":"Justins-MacBook-Pro.local","pid":18460,"level":30,"msg":"Creating table: tags","time":"2020-11-01T23:25:08.490Z","v":0}
+{"name":"Log","hostname":"Justins-MacBook-Pro.local","pid":18460,"level":30,"msg":"Creating table: posts_tags","time":"2020-11-01T23:25:08.494Z","v":0}
+{"name":"Log","hostname":"Justins-MacBook-Pro.local","pid":18460,"level":30,"msg":"Creating table: apps","time":"2020-11-01T23:25:08.497Z","v":0}
+{"name":"Log","hostname":"Justins-MacBook-Pro.local","pid":18460,"level":30,"msg":"Creating table: app_settings","time":"2020-11-01T23:25:08.503Z","v":0}
+{"name":"Log","hostname":"Justins-MacBook-Pro.local","pid":18460,"level":30,"msg":"Creating table: app_fields","time":"2020-11-01T23:25:08.507Z","v":0}
+{"name":"Log","hostname":"Justins-MacBook-Pro.local","pid":18460,"level":30,"msg":"Creating table: invites","time":"2020-11-01T23:25:08.510Z","v":0}
+{"name":"Log","hostname":"Justins-MacBook-Pro.local","pid":18460,"level":30,"msg":"Creating table: brute","time":"2020-11-01T23:25:08.516Z","v":0}
+{"name":"Log","hostname":"Justins-MacBook-Pro.local","pid":18460,"level":30,"msg":"Creating table: webhooks","time":"2020-11-01T23:25:08.519Z","v":0}
+{"name":"Log","hostname":"Justins-MacBook-Pro.local","pid":18460,"level":30,"msg":"Creating table: sessions","time":"2020-11-01T23:25:08.522Z","v":0}
+{"name":"Log","hostname":"Justins-MacBook-Pro.local","pid":18460,"level":30,"msg":"Creating table: integrations","time":"2020-11-01T23:25:08.526Z","v":0}
+{"name":"Log","hostname":"Justins-MacBook-Pro.local","pid":18460,"level":30,"msg":"Creating table: api_keys","time":"2020-11-01T23:25:08.530Z","v":0}
+{"name":"Log","hostname":"Justins-MacBook-Pro.local","pid":18460,"level":30,"msg":"Creating table: mobiledoc_revisions","time":"2020-11-01T23:25:08.535Z","v":0}
+{"name":"Log","hostname":"Justins-MacBook-Pro.local","pid":18460,"level":30,"msg":"Creating table: members","time":"2020-11-01T23:25:08.539Z","v":0}
+{"name":"Log","hostname":"Justins-MacBook-Pro.local","pid":18460,"level":30,"msg":"Creating table: labels","time":"2020-11-01T23:25:08.545Z","v":0}
+{"name":"Log","hostname":"Justins-MacBook-Pro.local","pid":18460,"level":30,"msg":"Creating table: members_labels","time":"2020-11-01T23:25:08.550Z","v":0}
+{"name":"Log","hostname":"Justins-MacBook-Pro.local","pid":18460,"level":30,"msg":"Creating table: members_stripe_customers","time":"2020-11-01T23:25:08.554Z","v":0}
+{"name":"Log","hostname":"Justins-MacBook-Pro.local","pid":18460,"level":30,"msg":"Creating table: members_stripe_customers_subscriptions","time":"2020-11-01T23:25:08.558Z","v":0}
+{"name":"Log","hostname":"Justins-MacBook-Pro.local","pid":18460,"level":30,"msg":"Creating table: actions","time":"2020-11-01T23:25:08.564Z","v":0}
+{"name":"Log","hostname":"Justins-MacBook-Pro.local","pid":18460,"level":30,"msg":"Creating table: emails","time":"2020-11-01T23:25:08.567Z","v":0}
+{"name":"Log","hostname":"Justins-MacBook-Pro.local","pid":18460,"level":30,"msg":"Creating table: email_batches","time":"2020-11-01T23:25:08.573Z","v":0}
+{"name":"Log","hostname":"Justins-MacBook-Pro.local","pid":18460,"level":30,"msg":"Creating table: email_recipients","time":"2020-11-01T23:25:08.576Z","v":0}
+{"name":"Log","hostname":"Justins-MacBook-Pro.local","pid":18460,"level":30,"msg":"Creating table: tokens","time":"2020-11-01T23:25:08.580Z","v":0}
+{"name":"Log","hostname":"Justins-MacBook-Pro.local","pid":18460,"level":30,"msg":"Creating table: snippets","time":"2020-11-01T23:25:08.585Z","v":0}
+{"name":"Log","hostname":"Justins-MacBook-Pro.local","pid":18460,"level":30,"msg":"Model: Tag","time":"2020-11-01T23:25:08.594Z","v":0}
+{"name":"Log","hostname":"Justins-MacBook-Pro.local","pid":18460,"level":30,"msg":"Model: Role","time":"2020-11-01T23:25:08.623Z","v":0}
+{"name":"Log","hostname":"Justins-MacBook-Pro.local","pid":18460,"level":30,"msg":"Model: Permission","time":"2020-11-01T23:25:08.644Z","v":0}
+{"name":"Log","hostname":"Justins-MacBook-Pro.local","pid":18460,"level":30,"msg":"Model: User","time":"2020-11-01T23:25:08.853Z","v":0}
+{"name":"Log","hostname":"Justins-MacBook-Pro.local","pid":18460,"level":30,"msg":"Model: Post","time":"2020-11-01T23:25:09.367Z","v":0}
+{"name":"Log","hostname":"Justins-MacBook-Pro.local","pid":18460,"level":30,"msg":"Model: Integration","time":"2020-11-01T23:25:09.601Z","v":0}
+{"name":"Log","hostname":"Justins-MacBook-Pro.local","pid":18460,"level":30,"msg":"Relation: Role to Permission","time":"2020-11-01T23:25:09.626Z","v":0}
+{"name":"Log","hostname":"Justins-MacBook-Pro.local","pid":18460,"level":30,"msg":"Relation: Post to Tag","time":"2020-11-01T23:25:09.814Z","v":0}
+{"name":"Log","hostname":"Justins-MacBook-Pro.local","pid":18460,"level":30,"msg":"Relation: User to Role","time":"2020-11-01T23:25:09.832Z","v":0}
+{"name":"Log","hostname":"Justins-MacBook-Pro.local","pid":18460,"level":30,"msg":"Ghost is running in development...","time":"2020-11-01T23:25:12.876Z","v":0}
+{"name":"Log","hostname":"Justins-MacBook-Pro.local","pid":18460,"level":30,"msg":"Listening on: 127.0.0.1:2370","time":"2020-11-01T23:25:12.877Z","v":0}
+{"name":"Log","hostname":"Justins-MacBook-Pro.local","pid":18460,"level":30,"msg":"Url configured as: http://localhost:2370/","time":"2020-11-01T23:25:12.878Z","v":0}
+{"name":"Log","hostname":"Justins-MacBook-Pro.local","pid":18460,"level":30,"msg":"Ctrl+C to shut down","time":"2020-11-01T23:25:12.878Z","v":0}
+{"name":"Log","hostname":"Justins-MacBook-Pro.local","pid":18460,"level":30,"msg":"Ghost boot 6.226s","time":"2020-11-01T23:25:12.880Z","v":0}
