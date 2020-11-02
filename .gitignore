@@ -1,7 +1,5 @@
 /.DS_Store
-/.ghost-cli
-/.ghostpid
 /config.development.json
 /config.production_test.json
-/versions
-/current
+current/node_modules
+versions/3.36.0/node_modules
